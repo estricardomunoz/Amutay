@@ -1,0 +1,26 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'millennial-3'
+
+
+
+menu:
+- {name: 'Conocenos', folder: 'pages', file: 'conocenos.html'}
+- {name: 'Casos Medicos', folder: 'pages', file: 'casos-medicos.html'}
+- {name: 'Entregables', folder: 'pages', file: 'entregables.html'}
+- {name: 'Modelos', folder: 'pages', file: 'modelos.html'}
+- {name: 'Bibliografia', folder: 'pages', file: 'bibliografia.html'}
+
+
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'No te olvides de compartir esta informacion!'
+
+related_posts: 'Tambien te puede interesar...'
+
+post_date_prefix: 'Escribe en'
